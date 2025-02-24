@@ -1,6 +1,8 @@
 # Stock Analysis with LangGraph
 
 This project demonstrates how to build a simple stock analysis workflow using LangGraph. It fetches historical stock data, performs technical analysis, and visualizes the results.
+Name: Kanak Raj Arora
+Email: kanakrajarora@gmail.com
 
 ## Overview
 
