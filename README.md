@@ -40,7 +40,7 @@ The project contains the following components:
 To analyze a stock, simply run the script:
 
 ```bash
-python stock_analysis.py
+python code.ipynb
 ```
 
 By default, the script analyzes Apple (AAPL) stock for the past month with daily intervals.
